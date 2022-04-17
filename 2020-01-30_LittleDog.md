@@ -275,7 +275,7 @@ yes*
 
 Two by two direct comparison, all sequences can be matched, the degree of similarity reached 99.6%, and then conservative region, the similarity between different species is almost impossible to be so high, and the whole genome coverage is more than 20%, confirming that it is undoubtedly the same virus!
 
-![screenshot26](pics/littledog_26.jpg)
+![screenshot26](pics/littledog_26.png)
 
 The emotions at this point were both nervous and excited. I was nervous because this unknown virus might be as horrible as SARS; I was excited because we found and confirmed this pathogen early through mNGS technology, and isolated the patients, so we could possibly kill it in the cradle through prevention and control measures before the virus spreads widely!
 
@@ -322,7 +322,7 @@ Uh-huh*
 
 This conversation may also understand why the rumor of SARS, as well as the name of the new coronavirus, after all, the genome similarity is only about 80% (off-topic, enterovirus of the same type of different strains, many of the similarity is only about 80%), SARS has brought us too much trauma, the public is extremely frightened of it.
 
-![screenshot30](pics/littledog_30.jpg)
+![screenshot30](pics/littledog_30.jpeg)
 
 The similarity of the different genes of the novel coronavirus and SARS varies from 75% to 94%, especially the S gene, which is related to the human cell receptor (ACE2), is only 75% similar. So to say that it is not SARS, that's kind of grounded. However, later in Shi Zhengli's article, the new coronavirus also belongs to SARSr-CoV (SARS-associated coronavirus) by their methodological analysis.
 
@@ -375,7 +375,7 @@ This is like an end-of-year exam for me. I have used all my knowledge and handed
 
 As far as I know, we were the first to discover the virus, because it was also after we reported the results that the CDC system started to intervene. From the data submitted on the GISAID database website, we were also the first to collect the samples. Perhaps other institutions have also detected this virus, but it is an unknown virus and there is no reference genome in the nucleic acid database, so they do not necessarily have the raw letter capacity to analyze and identify it.
 
-![screenshot33](pics/littledog_33.jpg)
+![screenshot33](pics/littledog_33.jpeg)
 
 So, I guess that's how we first discovered this new coronavirus, for the record.
 
