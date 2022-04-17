@@ -21,8 +21,7 @@ The good thing is that I have already encountered this kind of sensitive pathoge
 
 The results of the Exploratory Edition analysis suggest that this pathogen is most similar to Bat SARS like coronavirus, with an overall similarity of about 87%, while the similarity to SARS is about 81%. The number of sequences on the comparison rose from a few dozen to more than 500, and in addition 5 contigs were also assembled, adding up to more than 1200 bp, at which point it was basically confirmed to be a coronavirus and could be analyzed in detail for coronaviruses. During the analysis, we also started a small internal confidential discussion with the head and leader of the interpretation.
 
-![screenshot1](pics/littledog_1_translated.png)
-
+![screenshot1](pics/littledog_1_translated.png)  
 *December 26, 2019 09:28 am  
 SARS are out  
 Omg, which sample  
@@ -32,8 +31,7 @@ Which sample?*
 
 Further analysis, whether we take the original sequence to NCBI nt library blastn or take the assembled sequence to blastn, the result is most similar to Bat SARS like coronavirus, but the overall similarity is also only about 87%, and the similarity for nr library protein blastx comparison is also similar, so we reserve doubt on the result.
 
-![screenshot2](pics/littledog_2_translated.png)
-
+![screenshot2](pics/littledog_2_translated.png)  
 *Is bat coronavirus as infectious as SARS?  
 You handle this sample alone  
 Well, I'm analyzing  
@@ -53,8 +51,7 @@ Several thousand coronavirus genomes were further carpet-analyzed and evaluated 
 
 (Figure posted to the group only this afternoon)
 
-![screenshot4](pics/littledog_4_translated.png)
-
+![screenshot4](pics/littledog_4_translated.png)  
 *December 26, 2019 at 14:42 pm  
 Now the information analysis can confirm that it  
 is SARS virus, but it is not sure whether it  
@@ -67,7 +64,7 @@ From the sequence number and coverage map, it is the best fit for Bat_SARS_like_
 
 This information alone is not enough, at least to look at the evolutionary information, so began to do evolutionary tree analysis.
 
-![screenshot5](pics/littledog_5_translated.png)
+![screenshot5](pics/littledog_5_translated.png)  
 *December 26, 2019 at 10:25 am  
 Taxonomically a subtype of SARS  
 Can you make a phylogeny tree, plus coronavirus, SARS, MERS from humans, bats, civet cats and several other mammals  
@@ -79,8 +76,7 @@ The genomes of all coronaviruses were downloaded, and finally 160 strains of cor
 
 (It ran late into the evening before the figure was released)
 
-![screenshot6](pics/littledog_6_translated.png)
-
+![screenshot6](pics/littledog_6_translated.png)  
 *WHO-specific PCR target genes have been detected
 do you  
 December 26, 2019 17:23 pm  
@@ -89,8 +85,7 @@ no comparison
 Evolutionary tree analysis is too big  
 December 26, 2019 17:26 pm*
 
-![screenshot7](pics/littledog_7_translated.png)
-
+![screenshot7](pics/littledog_7_translated.png)  
 *Just like these two  
 Bat_SARS-like_coronavirus_isolate_bat-SL-CoVZXC21  
 Bat_SARS-like_coronavirus_isolate_bat-SL-CoVZC45  
@@ -111,8 +106,7 @@ The front-end feedback that this patient is seriously ill and anxious for the te
 
 The later in-depth analysis was conducted from the gene level (orf1ab, S, N and other genes), and there were no more meaningful findings, mainly because the number of sequences detected was low, the coverage was too low, and all were incomplete genes to do anything.
 
-![screenshot10](pics/littledog_10_translated.png)
-
+![screenshot10](pics/littledog_10_translated.png)  
 *December 26, 2019 23:22 pm  
 Differences in gene expression levels  
 December 26, 2019 23:30 pm  
@@ -120,8 +114,7 @@ I just found the strain with the highest alignment similarity. The position of t
 
 Retesting of complementary data for analysis has been proposed at noon. Retesting allows for technical reproducibility validation, avoiding false positives due to contamination by some unknown factors, ensuring that the sample does have the pathogen, and additionally allows for more data to be analyzed, such as the ability to assemble a complete genome, with more reliable analysis results and more in-depth analysis that can be done.
 
-![screenshot11](pics/littledog_11_translated.png)
-
+![screenshot11](pics/littledog_11_translated.png)  
 *December 26, 2019 at 12:09 noon  
 method can do enrichment?  
 See if you can assemble a more complete genome  
@@ -129,14 +122,12 @@ Looks like a new*
 
 After the data came out early the next morning (2019.12.27), an assembly analysis was hurriedly performed and finally a near complete genome sequence was assembled. The data was also shared with the Institute of Pathogenesis, Chinese Academy of Medical Sciences for other in-depth analysis. This time the number of sequences rose from the previous 500 or so to more than 470,000!
 
-![screenshot12](pics/littledog_12_translated.png)
-
+![screenshot12](pics/littledog_12_translated.png)  
 *December 27, 2019 at 09:48 am  
 After retesting, the assembly is longer.  
 One 16k, one 10k*
 
-[!screenshot13](pics/littledog_13_translated.png)
-
+[!screenshot13](pics/littledog_13_translated.png)  
 *December 27, 2019 at 10:12 am  
 NODE_1_length_16579_cov_266.242859  
 NODE_2_length_10596_cov_239.765392  
@@ -150,8 +141,7 @@ The results of the existing assembly can meet most of the analysis needs. The la
 
 The repo sequences were evenly distributed with no obvious preference, the average depth and median depth were basically the same, and the depth reached 1000x, indicating that there was no problem with the assembly and the sequencing was quite good, and the unknown pathogen was also a complete genome present.
 
-![screenshot14](pics/littledog_14_translated.png)
-
+![screenshot14](pics/littledog_14_translated.png)  
 *December 27, 2019 10:19 am  
 Take the original data to compare the coverage of the assembly results picture  
 Unknown coronavirus Coverage Map  
@@ -164,8 +154,7 @@ The similarity is also around 90%, which is similar to the overall similarity*
 
 The evolutionary tree was reconstructed, this time selecting all NCBI reference strains of coronaviruses (with registration numbers starting with NC, officially considered the most credible), plus a few strains from the most recent source analyzed the day before.
 
-![screenshot15](pics/littledog_15_translated.png)
-
+![screenshot15](pics/littledog_15_translated.png)  
 *December 27, 2019 at 12:04 noon  
 Evolutionary tree_new  
 assembly.pdf 589.4 KB*
@@ -176,8 +165,7 @@ The evolutionary tree results are basically the same as the previous day's.
 
 Genomic covariance analysis, ORF annotation, etc. indicate that this unknown coronavirus is a typical BetaCoV (orf1ab, S, M, N, E, etc. genes). The lighter color in the covariance map is the S protein region, which is the most differential gene.
 
-![screenshot17](pics/littledog_17_translated.png)
-
+![screenshot17](pics/littledog_17_translated.png)  
 *Bat_SARS-ike_coronavirus ta vis Unknown_coranavinus genome.fa  
 (25 kb 130
 After adjusting the order of our assembly results, follow the Bat_SARS-like_coronavirus genome  
@@ -189,8 +177,7 @@ In addition, many other detailed in-depth analyses were done for genes and prote
 
 At this point in the analysis, it was basically confirmed that there was indeed a virus in this patient's sample, but this virus was not very similar to all viruses with known genomic information, and might be a new virus similar to Bat SARS like coronavirus.
 
-![screenshot18](pics/littledog_18_translated.png)
-
+![screenshot18](pics/littledog_18_translated.png)  
 *Is it possible to issue a case, is the doctor willing to issue a case?  
 It's not a case problem anymore  
 Oh?  
@@ -208,16 +195,14 @@ Next is the question of how to report, direct reporting may scare doctors, not t
 
 The first thing that comes to mind is, of course, the history of wildlife exposure. The information we got at the time was that this patient had been back home, and we could not rule out the possibility that he had been exposed to bats, or had been bitten by bats.
 
-![screenshot19](pics/littledog_19_translated.png)
-
+![screenshot19](pics/littledog_19_translated.png)  
 *December 27, 2019 at 14:05 pm  
 Do you have information on living, working environment, and field exposure history?  
 Returned home before getting sick*
 
 Also had doubts about where the artificial virus related to the operation of the staff accidentally infected, after all, some time ago the brucella mass infection is because of a factory sterilization is not complete triggered.
 
-![screenshot20](pics/littledog_20_translated.png)
-
+![screenshot20](pics/littledog_20_translated.png)  
 *December 27, 2019 at 09:54 am  
 Yesterday I saw the teacher say that the Wuhan virus is located in close  
 Then that Blu was produced by the upstream vaccine manufacturer who did not completely disinfect the aerosol.*
@@ -226,8 +211,7 @@ There is no more information, or we must hurry to communicate with the doctor ab
 
 The doctor has been communicated with before noon, and the patient has been isolated.
 
-![screenshot21](pics/littledog_21_translated.png)
-
+![screenshot21](pics/littledog_21_translated.png)  
 *What is the decision now? Have you communicated with the doctor?  
 Communicates about coronavirus, patients are very serious, take quarantine measures  
 December 27, 2019 at 13:47 pm*
@@ -240,15 +224,13 @@ What really made me nervous again was that our friends shared the sequence for u
 
 Late on the 30th, we got the sequences from Friends for analysis.
 
-![screenshot22](pics/littledog_22_translated.png)
-
+![screenshot22](pics/littledog_22_translated.png)  
 *December 30, 2019 at 23:19 pm  
 Severe_acute_respiratory_syn(1).fq  19.0 KB  
 J sequence look?  
 Try it with these*
 
-![screenshot23](pics/littledog_23_translated.png)
-
+![screenshot23](pics/littledog_23_translated.png)  
 *Is there one after filtering the host? This should be compared to the Master's SARS, which is equivalent to the one after screening.  
 I only have this now. how many sequences are there  
 December 30, 2019 23:34 pm  
@@ -261,8 +243,7 @@ got together.*
 
 (Since the friendly sequence was screened against SARS, it is 93% similar to SARS, while our complete sequence is about 86%, but the homology between the two is still close to 100%)
 
-![screenshot25](pics/littledog_25_translated.png)
-
+![screenshot25](pics/littledog_25_translated.png)  
 *December 30, 2019 at 23:50 pm  
 Take ours directly as a reference and compare their fq directly, the mismatch rate is very low  
 hmm, send me some data  
@@ -281,8 +262,7 @@ The emotions at this point were both nervous and excited. I was nervous because 
 
 With mixed feelings and emotions, I immediately sent a friend circle that not many people could understand.
 
-![screenshot27](pics/littledog_27_translated.png)
-
+![screenshot27](pics/littledog_27_translated.png)  
 *Countless late nights working alone, just to polish better technology, will not be helpless when this moment comes. The theoretical application in the past has been confirmed again tonight, and the mNGS technology will be pushed to the altar...  
 We deeply understand that every precious specimen has  
 Behind it, there is a patient who needs urgent treatment.  
@@ -298,8 +278,7 @@ The media started to dispel the rumors, and the first one was issued by Xinjing 
 
 After the incident detonated, some friends also came to ask me if I was informed, especially those in Wuhan. After being told to keep it strictly confidential first (after all, someone was arrested), I still revealed a bit of information to them and told them to be sure to take precautions.
 
-![screenshot28](pics/littledog_28_translated.png)
-
+![screenshot28](pics/littledog_28_translated.png)  
 *what is it  
 spread fast  
 Novel SARS virus  
@@ -309,8 +288,7 @@ How much, let me be a little mentally prepared
 Let's see if the number of new infections will be announced in the next two days.  
 Uh-huh*
 
-![screenshot29](pics/littledog_29_translated.png)
-
+![screenshot29](pics/littledog_29_translated.png)  
 *This thing may also be named something other coronavirus, but it has a high homology with the SARS virus. The SARS virus genome has all the structures it should have. Except for more mutations, others are basically the same.  
 good drop  learn  
 The last announcement could be something like a new bat coronavirus or a new bat-like SARS coronavirus  
@@ -322,7 +300,7 @@ Uh-huh*
 
 This conversation may also understand why the rumor of SARS, as well as the name of the new coronavirus, after all, the genome similarity is only about 80% (off-topic, enterovirus of the same type of different strains, many of the similarity is only about 80%), SARS has brought us too much trauma, the public is extremely frightened of it.
 
-![screenshot30](pics/littledog_30.jpeg)
+![screenshot30](pics/littledog_30.png)
 
 The similarity of the different genes of the novel coronavirus and SARS varies from 75% to 94%, especially the S gene, which is related to the human cell receptor (ACE2), is only 75% similar. So to say that it is not SARS, that's kind of grounded. However, later in Shi Zhengli's article, the new coronavirus also belongs to SARSr-CoV (SARS-associated coronavirus) by their methodological analysis.
 
@@ -332,13 +310,12 @@ Why did we analyze the unknown virus as a coronavirus similar to SARS in two day
 
 In fact, the work we did was only to analyze and identify the virus in the samples sent for testing, but whether the pneumonia was caused by this virus, we did not analyze and could not analyze, and the detection of the virus does not mean that the pneumonia was caused by the virus. In such a major health event, the officials naturally have to be rigorous in their argumentation, and there is also an international reference verification process (Koch's Law). Officials have to do not only detect multiple samples with such a virus, but also verify that the pneumonia is caused by this virus, etc.
 
-![screenshot31](pics/littledog_31_translated.png)
-
-*Koch's rule is mainly divided into four steps:[1]  
-1. A large number of pathogens can often be found in diseased parts of the diseased body, but these pathogens cannot be found in healthy living bodies.  
-2. The pathogenic bacteria can be isolated and cultured in the medium, and the characteristics are recorded.  
-3. Purely cultured pathogens should be inoculated into healthy plants of the same species as the diseased plants, and produce the same symptoms as the diseased plants.  
-The pathogen should be able to be isolated again from the inoculated diseased strain by the same separation method, and its characteristics should be exactly the same as those isolated from the original diseased strain.*
+![screenshot31](pics/littledog_31_translated.png)  
+*Koch's rule is mainly divided into four steps:[1]*
+*1. A large number of pathogens can often be found in diseased parts of the diseased body, but these pathogens cannot be found in healthy living bodies.*
+*2. The pathogenic bacteria can be isolated and cultured in the medium, and the characteristics are recorded.*
+*3. Purely cultured pathogens should be inoculated into healthy plants of the same species as the diseased plants, and produce the same symptoms as the diseased plants.*
+*The pathogen should be able to be isolated again from the inoculated diseased strain by the same separation method, and its characteristics should be exactly the same as those isolated from the original diseased strain.*
 
 Isolation, incubation, validation, etc. all of these are time consuming and have to be discussed and agreed upon by experts. As we can see from the many papers on novel coronaviruses published in recent times, many sequencing data were completed in the first two or three days of January.
 
