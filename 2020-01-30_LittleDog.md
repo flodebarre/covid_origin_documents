@@ -1,10 +1,10 @@
 ---
 
-> Source: <https://freewechat.com/a/MzAxMjMyMDk0Ng==/2650112053/1/1580318101>,
+Source: <https://freewechat.com/a/MzAxMjMyMDk0Ng==/2650112053/1/1580318101>,
 archived at <https://archive.ph/Zretg>
 
-> Text translated using [deepL](https://www.deepl.com);  
-> images translated with Google Lens.
+Text translated using [deepL](https://www.deepl.com);  
+images translated with Google Lens.
 
 ---
 
