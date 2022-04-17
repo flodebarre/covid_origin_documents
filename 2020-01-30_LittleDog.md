@@ -239,3 +239,24 @@ I thought this would pass quickly, after all, in addition to this patient, it se
 What really made me nervous again was that our friends shared the sequence for us to analyze, and when I did, it was indeed the same virus! The first subconscious thought was "this virus is contagious"! Maybe it is a new type of SARS!
 
 Late on the 30th, we got the sequences from Friends for analysis.
+
+![screenshot22](pics/littledog_22_translated.png)
+
+*December 30, 2019 at 23:19 pm  
+Severe_acute_respiratory_syn(1).fq  19.0 KB  
+J sequence look?  
+Try it with these*
+
+![screenshot23](pics/littledog_23_translated.png)
+
+*Is there one after filtering the host? This should be compared to the Master's SARS, which is equivalent to the one after screening.  
+I only have this now. how many sequences are there  
+December 30, 2019 23:34 pm  
+Simultaneously two or two clusterW?  
+Only 50+ sequences  
+December 30, 2019 at 23:42 pm  
+got together.*
+
+![screenshot24](pics/littledog_24.jpg)
+
+(Since the friendly sequence was screened against SARS, it is 93% similar to SARS, while our complete sequence is about 86%, but the homology between the two is still close to 100%)
