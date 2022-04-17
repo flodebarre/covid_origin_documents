@@ -1,5 +1,3 @@
----
-
 Source: <https://freewechat.com/a/MzAxMjMyMDk0Ng==/2650112053/1/1580318101>,
 archived at <https://archive.ph/Zretg>
 
