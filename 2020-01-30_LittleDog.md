@@ -23,9 +23,27 @@ The results of the Exploratory Edition analysis suggest that this pathogen is mo
 
 ![screenshot1](pics/littledog_1_translated.png)
 
+*December 26, 2019 09:28 am  
+SARS are out  
+Omg, which sample  
+it's no joke  
+It's the same level as the plague  
+Which sample?*
+
 Further analysis, whether we take the original sequence to NCBI nt library blastn or take the assembled sequence to blastn, the result is most similar to Bat SARS like coronavirus, but the overall similarity is also only about 87%, and the similarity for nr library protein blastx comparison is also similar, so we reserve doubt on the result.
 
 ![screenshot2](pics/littledog_2_translated.png)
+
+*Is bat coronavirus as infectious as SARS?  
+You handle this sample alone  
+Well, I'm analyzing  
+SARS itself came from bats  
+And civet cats  
+December 26, 2019 at 10:24 am  
+Bat_SARS_like_coronavirus  
+The final identification is this  
+December 26, 2019 at 10:25 am  
+Taxonomically a subtype of SARS*
 
 The classification information of viruses has been confusing, and the classification rules are not uniform, some are based on typing genes (such as influenza A), others do not have clear typing genes, and are classified by other methods. We have not researched the classification of Bat SARS like and SARS before, but in NCBI Taxonomy, Bat SARS like is classified under SARS. Based on the genomic similarity, I subconsciously thought that since Bat SARS like was a subordinate classification of SARS, the unknown virus detected was at least a parallel species to Bat SARS like, i.e., a novel Bat SARS like (later, I read the literature). SARS and Bat SARS like are classified by several non-structural proteins).
 
