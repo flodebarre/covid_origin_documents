@@ -55,15 +55,46 @@ Several thousand coronavirus genomes were further carpet-analyzed and evaluated 
 
 ![screenshot4](pics/littledog_4_translated.png)
 
----
-December 26, 2019 at 14:42 pm
-Now the information analysis can confirm that it
-is SARS virus, but it is not sure whether it
-is a new subtype.
-December 26, 2019 at 15:01 pm
-933.1 at SARS coronavirus isolate bat SL COVZC45 complete genome Caver
-9341 Bat SAR-ke coronavirus isolate bat-SL-COVZXC21 complete genome Cove
-0621801 SARS coronavirus Urbani isolate icSARS-MA com by Co
-From the sequence number and coverage
-map, it is the best fit for Bat_SARS_like_coronavirus
----
+*December 26, 2019 at 14:42 pm  
+Now the information analysis can confirm that it  
+is SARS virus, but it is not sure whether it  
+is a new subtype.  
+December 26, 2019 at 15:01 pm  
+933.1 at SARS coronavirus isolate bat SL COVZC45 complete genome Caver  
+9341 Bat SAR-ke coronavirus isolate bat-SL-COVZXC21 complete genome Cove  
+0621801 SARS coronavirus Urbani isolate icSARS-MA com by Co  
+From the sequence number and coverage map, it is the best fit for Bat_SARS_like_coronavirus*
+
+This information alone is not enough, at least to look at the evolutionary information, so began to do evolutionary tree analysis.
+
+![screenshot5](pics/littledog_5_translated.png)
+*26 décembre 2019 à 10h25  
+Taxonomiquement un sous-type de SRAS  
+Pouvez-vous créer un arbre phylogénétique, plus le coronavirus, le SRAS, le MERS à partir d'humains, de chauves-souris,  de civettes et de plusieurs autres mammifères  
+Je cherche des génomes pour faire ça  
+D'ACCORD  
+Trop de catégories à trouver*
+
+The genomes of all coronaviruses were downloaded, and finally 160 strains of coronavirus genes (basically containing all known coronaviruses of various animals) were filtered out after quality filtering and clustering analysis. The assembled sequences were analyzed with the 160 coronavirus genomes based on the average genome-wide similarity. (As an aside, I believe that in species evolution analysis, it is more accurate and reasonable to build an evolutionary tree based on the average gene-wide similarity than on a gene. (Of course, studying the structure, function, etc. is another story, and at this time the assembled sequences are also very short, and there is no complete gene sequence), the result is, not surprisingly, the closest to Bat SARS like coronavirus, and is also on the big branch of SARS.
+
+(It ran late into the evening before the figure was released)
+
+![screenshot6](pics/littledog_6_translated.png)
+
+*WHO-specific PCR target genes have been detected
+do you  
+December 26, 2019 17:23 pm  
+WHO-specific PCR target genes  
+no comparison  
+Evolutionary tree analysis is too big  
+December 26, 2019 17:26 pm*
+
+![screenshot7](pics/littledog_7_translated.png)
+
+*Just like these two  
+Bat_SARS-like_coronavirus_isolate_bat-SL-CoVZXC21  
+Bat_SARS-like_coronavirus_isolate_bat-SL-CoVZC45  
+December 26, 2019 18:08 pm  
+Evolutionary tree.pdf  
+1.5 MB PDF  
+WeChat computer version*
