@@ -260,3 +260,125 @@ got together.*
 ![screenshot24](pics/littledog_24.jpg)
 
 (Since the friendly sequence was screened against SARS, it is 93% similar to SARS, while our complete sequence is about 86%, but the homology between the two is still close to 100%)
+
+![screenshot25](pics/littledog_25_translated.png)
+
+*December 30, 2019 at 23:50 pm  
+Take ours directly as a reference and compare their fq directly, the mismatch rate is very low  
+hmm, send me some data  
+December 31, 2019 00:02 am  
+| Map_read
+N
+19 59  
+So aside from the sequence being filtered, basically a something  
+yes*
+
+Two by two direct comparison, all sequences can be matched, the degree of similarity reached 99.6%, and then conservative region, the similarity between different species is almost impossible to be so high, and the whole genome coverage is more than 20%, confirming that it is undoubtedly the same virus!
+
+![screenshot26](pics/littledog_26.jpg)
+
+The emotions at this point were both nervous and excited. I was nervous because this unknown virus might be as horrible as SARS; I was excited because we found and confirmed this pathogen early through mNGS technology, and isolated the patients, so we could possibly kill it in the cradle through prevention and control measures before the virus spreads widely!
+
+With mixed feelings and emotions, I immediately sent a friend circle that not many people could understand.
+
+![screenshot27](pics/littledog_27_translated.png)
+
+*Countless late nights working alone, just to polish better technology, will not be helpless when this moment comes. The theoretical application in the past has been confirmed again tonight, and the mNGS technology will be pushed to the altar...  
+We deeply understand that every precious specimen has  
+Behind it, there is a patient who needs urgent treatment.  
+December 31, 2019 00:33 Deleted*
+
+Early on December 31, rumors about SARS started spreading widely on Weibo. I was waiting to see what the official response would be. In the afternoon, the official announcement was made, saying only that it was "pneumonia of unknown origin", without mentioning what the pathogen was, and that there were 27 similar cases, seven of which were serious. After seeing this news, I felt bad, guessing that this virus is not low in infectivity. However, the official notification is "no obvious human-to-human transmission", the early data is not much, the situation is not easy to judge, not to mention the new virus, in order to stabilize the social mood, to avoid excessive public panic, such a notice is actually understandable.
+
+At this time, the expert group has begun to intervene, Wuhan Institute of Virus and other "national team" also began to analyze the identification, they know more information, have more samples and data, but also better equipped to be more professional, so the follow-up I did not do too much in-depth analysis of the work, waiting for the official results.
+
+At first I was quite confident in the country's ability to handle these sudden and major public health events, after all, after the baptism of SARS, influenza A and other events. In addition, the plague incident in Beijing just over two months ago was also reported by us through mNGS detection, and they started the emergency procedures on the same day after reporting, and immediately used other methods to verify again, and saw the news early the next morning, and no new cases of infection were found, so the prevention and control was well done. mNGS took great credit for the plague incident, and I think it can play a big role in the prevention and control of this unknown virus. I think it can play a big role in the prevention and control of this unknown virus.
+
+The media started to dispel the rumors, and the first one was issued by Xinjing News, "SARS is a rumor", while People's Daily and others used euphemisms such as "it cannot be concluded that it is SARS", and then eight people who "created the rumors" were arrested. The latter 8 people were arrested. After seeing these news, somehow I was suddenly a little disappointed in my heart. What is scientifically inconclusive or controversial is directly a rumor? I started to get the feeling that this kind of rumor-mongering and over-optimistic propaganda would push the matter to an irreversible situation. High-profile media disinformation would interfere with the scientific characterization of this virus, and overly optimistic propaganda would leave the public lacking in awe and not taking defensive measures. Subsequent developments have once again validated my fears.
+
+After the incident detonated, some friends also came to ask me if I was informed, especially those in Wuhan. After being told to keep it strictly confidential first (after all, someone was arrested), I still revealed a bit of information to them and told them to be sure to take precautions.
+
+![screenshot28](pics/littledog_28_translated.png)
+
+*what is it  
+spread fast  
+Novel SARS virus  
+Judging from the number of infected cases, there may still be a strong transmission capacity.  
+January 2 at 14:44 pm  
+How much, let me be a little mentally prepared  
+Let's see if the number of new infections will be announced in the next two days.  
+Uh-huh*
+
+![screenshot29](pics/littledog_29_translated.png)
+
+*This thing may also be named something other coronavirus, but it has a high homology with the SARS virus. The SARS virus genome has all the structures it should have. Except for more mutations, others are basically the same.  
+good drop  learn  
+The last announcement could be something like a new bat coronavirus or a new bat-like SARS coronavirus  
+Let's take a new name you don't know  
+Maybe not so panic  
+It's not good to think of sars  
+So the previous name is more likely  
+Uh-huh*
+
+This conversation may also understand why the rumor of SARS, as well as the name of the new coronavirus, after all, the genome similarity is only about 80% (off-topic, enterovirus of the same type of different strains, many of the similarity is only about 80%), SARS has brought us too much trauma, the public is extremely frightened of it.
+
+![screenshot30](pics/littledog_30.jpg)
+
+The similarity of the different genes of the novel coronavirus and SARS varies from 75% to 94%, especially the S gene, which is related to the human cell receptor (ACE2), is only 75% similar. So to say that it is not SARS, that's kind of grounded. However, later in Shi Zhengli's article, the new coronavirus also belongs to SARSr-CoV (SARS-associated coronavirus) by their methodological analysis.
+
+The subsequent development of the event is known to all. Here are a few more questions.
+
+Why did we analyze the unknown virus as a coronavirus similar to SARS in two days and report all the analysis results, but it took until January 7 for the official announcement to clarify that the pneumonia was caused by the novel coronavirus?
+
+In fact, the work we did was only to analyze and identify the virus in the samples sent for testing, but whether the pneumonia was caused by this virus, we did not analyze and could not analyze, and the detection of the virus does not mean that the pneumonia was caused by the virus. In such a major health event, the officials naturally have to be rigorous in their argumentation, and there is also an international reference verification process (Koch's Law). Officials have to do not only detect multiple samples with such a virus, but also verify that the pneumonia is caused by this virus, etc.
+
+![screenshot31](pics/littledog_31_translated.png)
+
+*Koch's rule is mainly divided into four steps:[1]  
+1. A large number of pathogens can often be found in diseased parts of the diseased body, but these pathogens cannot be found in healthy living bodies.  
+2. The pathogenic bacteria can be isolated and cultured in the medium, and the characteristics are recorded.  
+3. Purely cultured pathogens should be inoculated into healthy plants of the same species as the diseased plants, and produce the same symptoms as the diseased plants.  
+The pathogen should be able to be isolated again from the inoculated diseased strain by the same separation method, and its characteristics should be exactly the same as those isolated from the original diseased strain.*
+
+Isolation, incubation, validation, etc. all of these are time consuming and have to be discussed and agreed upon by experts. As we can see from the many papers on novel coronaviruses published in recent times, many sequencing data were completed in the first two or three days of January.
+
+There is also a very impressive thing about this story: people who know the truth are silent, while those who don't know the truth are "vigorously popularizing" and "deeply analyzing"; companies who have experienced it themselves are afraid to say anything, while other companies are taking advantage of the marketing. From the plague to the new coronavirus are all like this, oh, so interesting.
+
+To talk about the whole event, the biggest feeling is disappointment, pain, and anger. We have found it so timely, why is it still not under control? The epidemic war that got the country into? It's not so much the science, or the technology, but the decision making and the media.
+
+I used to be a very cynical person, it has come to this, there is no way to turn back the clock, passing confidence is the most important thing, right? After the horse, everyone is an elite, who did not expect things to develop into this way, so it is not too lazy to criticize many things. But there are still some things I want to say.
+
+The repudiation of SARS, the optimism promoted by the media, these were not too much of a problem in the earliest days, after all, the knowledge of this virus was very limited. In response to these major public health events, the CDC system may adopt the "strict internal and external" rules, internal caution, strict verification, careful assessment, external announcements may be optimistic to avoid causing excessive panic. In addition, in this incident, how to give the public an account, apparently not the CDC system can make decisions alone.
+
+It goes without saying that Wuhan is a transportation hub, and it was also close to the Chinese New Year, which is the peak season for restaurants, tourism, movies and other services. Pessimistic propaganda will undoubtedly hit these services hard, and will also cause excessive panic among the public, leading to material looting, social chaos and other serious consequences. If the virus really has no ability to spread, or because the measures taken to stifle the spread of the virus, society does not see what harm this virus can bring, decision makers will certainly be called out for overreacting, making a big deal out of it, and then naturally to take the blame. On the contrary, overly optimistic propaganda, the virus is not strong is all happy, happy for the New Year, the virus is strong will lead to a lack of public awareness of prevention, prevention and control work is difficult to carry out, and ultimately lead to the rapid spread of the virus, producing more serious consequences. So, when you as a decision maker, you have to consider all aspects of the factors, social, economic and political aspects need to do a balance, very test the ability and vision of decision makers and experts.
+
+If you go right, you will be uneventful, if you go wrong, you will be a sinner for a thousand years.
+
+There is no parallel universe in this world, we can't know which decision is more right or more wrong. In the country this kind of thing like to optimistic propaganda above the atmosphere, as well as the existence of fluke, decision makers to do what decision, can be imagined.
+
+In the late development of the incident, especially since about January 12, I believe experts have seen things are going in a bad direction (the first 41 patients diagnosed, about 30% do not have a history of exposure to seafood markets, at this time many places began to appear suspected cases, some have preliminary nucleic acid positive). But in the follow-up propaganda is still too optimistic and artistic, while still continuing to disinformation, has not yet issued any signs of warning. The phrase "limited human-to-human transmission is not ruled out, and the risk of ongoing human-to-human transmission is low and preventable and controllable" is rather cautiously worded, not to mention whether it is overly optimistic, but how many ordinary people know what "limited human-to-human transmission" is? What is "sustained human-to-human transmission"? Their understanding may be that there is basically no human-to-human transmission, so they are naturally unsuspecting. I also popularized it in my circle of friends.
+
+![screenshot32](pics/littledog_32_translated.png)
+
+*Limited human-to-human transmission: A can be passed to B, C..., but B, C... basically will not be passed to other people. Continuous human-to-human transmission: A to B, B to C, C to D.. . can continue to pass  
+Expert opinion: Wuhan pneumonia does not rule out limited human-to-human transmission, and scientific prevention requires joint attention from you and me!*
+
+From the many papers published now can also be seen, many experts have long had a deeper understanding of the ability of this virus to spread, the further back, the more data available, the clearer the prognosis of the situation. I believe that experts have long given not very optimistic predictions, but if some people, in order to take into account the face of some people or some media (after all, before the publicity is too optimistic, now hit the face too painful), disregard for expert opinion, disregard for the health of the people, had to go to the top of the optimistic notice, insist that no warning is issued, this is inexcusable. Whoever it is, the penalty of the penalty, the removal of the removal.
+
+Not much else to say, talk about some hope.
+
+mNGS is indeed a good technology that plays a big role in the diagnosis of difficult and critical cases, as well as in the early monitoring and outbreak surveillance of such sudden and major public health events. There are many vendors providing mNGS pathogen detection services, and it is recommended that the CDC system can establish direct communication channels with some good technology companies to respond more quickly to emergencies like this. In addition, mNGS companies can also establish an information sharing platform to share information in a timely manner when encountering these events to see if there is an outbreak (I know this is difficult, on the one hand it is supposed to be a commercial secret, on the other hand sensitive pathogens no one dares to report easily, but I still think this is very meaningful and I hope it can become a reality one day).
+
+I also hope that after this novel coronavirus incident, the country's ability to handle major public health events has made great progress. Personally, I think we can learn from the rule of weather forecasting - "always forecast to the more dangerous side" - in order to remind people to take more precautions and lower their psychological expectations. As the saying goes: no expectations, no disappointment.
+
+This is like an end-of-year exam for me. I have used all my knowledge and handed in a passable answer sheet, but did it make the most of it? The first time I personally participated in such a major public health event, made a small contribution, but also exercise and grow a lot.
+
+As far as I know, we were the first to discover the virus, because it was also after we reported the results that the CDC system started to intervene. From the data submitted on the GISAID database website, we were also the first to collect the samples. Perhaps other institutions have also detected this virus, but it is an unknown virus and there is no reference genome in the nucleic acid database, so they do not necessarily have the raw letter capacity to analyze and identify it.
+
+![screenshot33](pics/littledog_33.jpg)
+
+So, I guess that's how we first discovered this new coronavirus, for the record.
+
+Let's hope we beat the epidemic sooner rather than later.
+
+Go China! Go Wuhan!
