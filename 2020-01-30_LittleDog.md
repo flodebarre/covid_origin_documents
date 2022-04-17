@@ -25,4 +25,27 @@ The results of the Exploratory Edition analysis suggest that this pathogen is mo
 
 Further analysis, whether we take the original sequence to NCBI nt library blastn or take the assembled sequence to blastn, the result is most similar to Bat SARS like coronavirus, but the overall similarity is also only about 87%, and the similarity for nr library protein blastx comparison is also similar, so we reserve doubt on the result.
 
-![screenshot1](pics/littledog_2_translated.png)
+![screenshot2](pics/littledog_2_translated.png)
+
+The classification information of viruses has been confusing, and the classification rules are not uniform, some are based on typing genes (such as influenza A), others do not have clear typing genes, and are classified by other methods. We have not researched the classification of Bat SARS like and SARS before, but in NCBI Taxonomy, Bat SARS like is classified under SARS. Based on the genomic similarity, I subconsciously thought that since Bat SARS like was a subordinate classification of SARS, the unknown virus detected was at least a parallel species to Bat SARS like, i.e., a novel Bat SARS like (later, I read the literature). SARS and Bat SARS like are classified by several non-structural proteins).
+
+![screenshot3](pics/littledog_3.jpg)
+
+Several thousand coronavirus genomes were further carpet-analyzed and evaluated in terms of similarity, coverage, and uniform genome distribution, and finally the two most similar strains were identified, bat-SL-CoVZC45 and bat-SL-CoVZXC21 (the same two that were analyzed in many articles after the genome sequence was published on January 9).
+
+(Figure posted to the group only this afternoon)
+
+![screenshot4](pics/littledog_4_translated.png)
+
+---
+December 26, 2019 at 14:42 pm
+Now the information analysis can confirm that it
+is SARS virus, but it is not sure whether it
+is a new subtype.
+December 26, 2019 at 15:01 pm
+933.1 at SARS coronavirus isolate bat SL COVZC45 complete genome Caver
+9341 Bat SAR-ke coronavirus isolate bat-SL-COVZXC21 complete genome Cove
+0621801 SARS coronavirus Urbani isolate icSARS-MA com by Co
+From the sequence number and coverage
+map, it is the best fit for Bat_SARS_like_coronavirus
+---
