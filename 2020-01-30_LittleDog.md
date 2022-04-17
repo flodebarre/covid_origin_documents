@@ -68,12 +68,12 @@ From the sequence number and coverage map, it is the best fit for Bat_SARS_like_
 This information alone is not enough, at least to look at the evolutionary information, so began to do evolutionary tree analysis.
 
 ![screenshot5](pics/littledog_5_translated.png)
-*26 décembre 2019 à 10h25  
-Taxonomiquement un sous-type de SRAS  
-Pouvez-vous créer un arbre phylogénétique, plus le coronavirus, le SRAS, le MERS à partir d'humains, de chauves-souris,  de civettes et de plusieurs autres mammifères  
-Je cherche des génomes pour faire ça  
-D'ACCORD  
-Trop de catégories à trouver*
+*December 26, 2019 at 10:25 am  
+Taxonomically a subtype of SARS  
+Can you make a phylogeny tree, plus coronavirus, SARS, MERS from humans, bats, civet cats and several other mammals  
+I'm looking for genomes to do this  
+OK  
+Too many categories to find*
 
 The genomes of all coronaviruses were downloaded, and finally 160 strains of coronavirus genes (basically containing all known coronaviruses of various animals) were filtered out after quality filtering and clustering analysis. The assembled sequences were analyzed with the 160 coronavirus genomes based on the average genome-wide similarity. (As an aside, I believe that in species evolution analysis, it is more accurate and reasonable to build an evolutionary tree based on the average gene-wide similarity than on a gene. (Of course, studying the structure, function, etc. is another story, and at this time the assembled sequences are also very short, and there is no complete gene sequence), the result is, not surprisingly, the closest to Bat SARS like coronavirus, and is also on the big branch of SARS.
 
@@ -117,3 +117,125 @@ The later in-depth analysis was conducted from the gene level (orf1ab, S, N and 
 Differences in gene expression levels  
 December 26, 2019 23:30 pm  
 I just found the strain with the highest alignment similarity. The position of the S region is 21483~25220. Our sequencing data still compares more than 30 lines, but they are all at the tail after 24000. area*
+
+Retesting of complementary data for analysis has been proposed at noon. Retesting allows for technical reproducibility validation, avoiding false positives due to contamination by some unknown factors, ensuring that the sample does have the pathogen, and additionally allows for more data to be analyzed, such as the ability to assemble a complete genome, with more reliable analysis results and more in-depth analysis that can be done.
+
+![screenshot11](pics/littledog_11_translated.png)
+
+*December 26, 2019 at 12:09 noon  
+method can do enrichment?  
+See if you can assemble a more complete genome  
+Looks like a new*
+
+After the data came out early the next morning (2019.12.27), an assembly analysis was hurriedly performed and finally a near complete genome sequence was assembled. The data was also shared with the Institute of Pathogenesis, Chinese Academy of Medical Sciences for other in-depth analysis. This time the number of sequences rose from the previous 500 or so to more than 470,000!
+
+![screenshot12](pics/littledog_12_translated.png)
+
+*December 27, 2019 at 09:48 am  
+After retesting, the assembly is longer.  
+One 16k, one 10k*
+
+[!screenshot13](pics/littledog_13_translated.png)
+
+*December 27, 2019 at 10:12 am  
+NODE_1_length_16579_cov_266.242859  
+NODE_2_length_10596_cov_239.765392  
+NODE_3_length_2211_cov_712.139610  
+NODE_6_length_557_cov_371.448207  
+Assemble 4 sequences, which add up to exactly 29.9k, which is in line with the length of SARS*
+
+Because of the limited time and other R&D projects, we did not go into details of the assembly results to obtain the complete genome. In addition, we have shared the data with the Pathogen Institute, and they will also do this, so we have not assembled a complete genome sequence, and the existing assembly results can meet most of the analysis needs.
+
+The results of the existing assembly can meet most of the analysis needs. The later also continued to do some in-depth analysis.
+
+The repo sequences were evenly distributed with no obvious preference, the average depth and median depth were basically the same, and the depth reached 1000x, indicating that there was no problem with the assembly and the sequencing was quite good, and the unknown pathogen was also a complete genome present.
+
+![screenshot14](pics/littledog_14_translated.png)
+
+*December 27, 2019 10:19 am  
+Take the original data to compare the coverage of the assembly results picture  
+Unknown coronavirus Coverage Map  
+December 27, 2019 at 10:36 am  
+Does it take time to update the evolutionary tree?  
+It would be better to reduce some species  
+it is good  
+Targeted regions can be compared to the previous section, but some mismatch  
+The similarity is also around 90%, which is similar to the overall similarity*
+
+The evolutionary tree was reconstructed, this time selecting all NCBI reference strains of coronaviruses (with registration numbers starting with NC, officially considered the most credible), plus a few strains from the most recent source analyzed the day before.
+
+![screenshot15](pics/littledog_15_translated.png)
+
+*December 27, 2019 at 12:04 noon  
+Evolutionary tree_new  
+assembly.pdf 589.4 KB*
+
+The evolutionary tree results are basically the same as the previous day's.
+
+![screenshot16](pics/littledog_16.jpg)
+
+Genomic covariance analysis, ORF annotation, etc. indicate that this unknown coronavirus is a typical BetaCoV (orf1ab, S, M, N, E, etc. genes). The lighter color in the covariance map is the S protein region, which is the most differential gene.
+
+![screenshot17](pics/littledog_17_translated.png)
+
+*Bat_SARS-ike_coronavirus ta vis Unknown_coranavinus genome.fa  
+(25 kb 130
+After adjusting the order of our assembly results, follow the Bat_SARS-like_coronavirus genome  
+The structure is basically the same*
+
+After comparing with the 7 PCR validated target sequences for SARS recommended by the WHO official website, it was found that the average similarity was also only about 90%, and the key was that the primer sequences also had several variants, presumably the SARS detection kit could not detect this unknown pathogen (the same was true for the experimental validation in many places later).
+
+In addition, many other detailed in-depth analyses were done for genes and proteins, so I will not repeat them.
+
+At this point in the analysis, it was basically confirmed that there was indeed a virus in this patient's sample, but this virus was not very similar to all viruses with known genomic information, and might be a new virus similar to Bat SARS like coronavirus.
+
+![screenshot18](pics/littledog_18_translated.png)
+
+*Is it possible to issue a case, is the doctor willing to issue a case?  
+It's not a case problem anymore  
+Oh?  
+This is worse than the plague  
+Make two alignments of the currently covered sequences: 1. with the structural protein region; 2. with the targeting region of the seven pairs of primers of WHO.  
+It's a serious public health problem  
+If so, we may also need to prompt, isolate, and prevent human-to-human transmission as soon as possible.  
+and laboratory*
+
+(Now look back at my words at that time, it is really a prophecy, sorry to the whole country, it is my fault this crow's mouth)
+
+This is not necessarily SARS, contagious, pathogenicity are unknown, while also aware of the potential seriousness of the problem, the laboratory did a comprehensive cleanup and disinfection, the samples harmlessly destroyed, the experimental operations related to the monitoring of personnel.
+
+Next is the question of how to report, direct reporting may scare doctors, not to mention that this may be a new virus, the wrong report is a major accident. There is some necessary information that still needs to be ranked first.
+
+The first thing that comes to mind is, of course, the history of wildlife exposure. The information we got at the time was that this patient had been back home, and we could not rule out the possibility that he had been exposed to bats, or had been bitten by bats.
+
+![screenshot19](pics/littledog_19_translated.png)
+
+*December 27, 2019 at 14:05 pm  
+Do you have information on living, working environment, and field exposure history?  
+Returned home before getting sick*
+
+Also had doubts about where the artificial virus related to the operation of the staff accidentally infected, after all, some time ago the brucella mass infection is because of a factory sterilization is not complete triggered.
+
+![screenshot20](pics/littledog_20_translated.png)
+
+*December 27, 2019 at 09:54 am  
+Yesterday I saw the teacher say that the Wuhan virus is located in close  
+Then that Blu was produced by the upstream vaccine manufacturer who did not completely disinfect the aerosol.*
+
+There is no more information, or we must hurry to communicate with the doctor about this matter, after all, we can guarantee that the samples sent for testing is the unknown virus inside, other things will be left to the doctor to investigate and deal with.
+
+The doctor has been communicated with before noon, and the patient has been isolated.
+
+![screenshot21](pics/littledog_21_translated.png)
+
+*What is the decision now? Have you communicated with the doctor?  
+Communicates about coronavirus, patients are very serious, take quarantine measures  
+December 27, 2019 at 13:47 pm*
+
+Because no other information is available, the patient is also isolated, and the virus is not a real SARS, thinking that maybe it is just a wild Bat SARS like, the contagiousness is unknown, so the nervousness is also somewhat relaxed. But because the patient is seriously ill, it should not be underestimated, and we are still in close communication with the hospital. During the period also continue to do some in-depth analysis, 27th, 28th company leaders are also with the hospital and the CDC people on the phone to communicate this matter, 29th, 30th also personally went to Wuhan with the hospital, the CDC leadership face to face to report the exchange of this matter, including all our analysis results and the Academy of Medical Sciences Institute of Pathogenesis analysis results. Everything was under intense, confidential and strict investigation (at this time, the hospital and the CDC people already knew that there were several similar patients, and we communicated the test results after the emergency treatment had already begun, but I did not know it).
+
+I thought this would pass quickly, after all, in addition to this patient, it seems that no other patients heard the news of infection, but by December 30, heard the news that there are quite a number of patients with similar symptoms, nerves again suddenly tense. In particular, about the afternoon of the 30th, a "friend" may have detected the same virus in another patient's sample, but they directly sent a report on the detection of SARS coronavirus, which instantly set the news off. In the evening, the relevant authorities also issued an announcement of "pneumonia of unknown origin", and the rumors started spreading on Weibo in the early hours of the 31st.
+
+What really made me nervous again was that our friends shared the sequence for us to analyze, and when I did, it was indeed the same virus! The first subconscious thought was "this virus is contagious"! Maybe it is a new type of SARS!
+
+Late on the 30th, we got the sequences from Friends for analysis.
