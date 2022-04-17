@@ -4,6 +4,14 @@ archived at <https://archive.ph/Zretg>
 Text translated using [deepL](https://www.deepl.com);  
 images translated with Google Lens.
 
+-  The text is also available at <https://k.sina.cn/article_1174882383_4607484f00100nq9u.html>, where the date `2020.01.28` appears.
+   > Author: Xiaoshan Dog Source: Xinmin Evening News
+
+-  The text was also [posted on Medium](https://medium.com/coronavirus19/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%9A%84%E7%BB%8F%E5%8E%86-ebb4b5522043) on 2020-01-29
+
+-  The text was saved on [China Digital Times](https://chinadigitaltimes.net/chinese/633514.html) on 2020-01-29 ([announcement](https://twitter.com/rockngo/status/1222605796766150656?lang=en))
+
+
 ---
 
 *This content has been removed by the publisher This content was recovered by Free WeChat.  
