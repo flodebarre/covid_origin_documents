@@ -98,3 +98,22 @@ December 26, 2019 18:08 pm
 Evolutionary tree.pdf  
 1.5 MB PDF  
 WeChat computer version*
+
+![screenshot8](pics/littledog_8.jpg)  
+Note: A large piece of red in the upper left corner is SARS, the edge color is not so red is Bat SARS like, and then the large blue edge outside is another group of Bat SARS like, unknown virus and 45, 21 gathered in a relatively independent one, circled by the red box.
+
+It is strange that this unknown virus clustered with bat-SL-CoVZC45 and bat-SL-CoVZXC21 in a relatively independent branch, while other Bat SARS like clustered in the group of SRAS, thinking that maybe the classification of these two is a bit problematic, but after reading the literature, the method is not different from the others. We respect the classification of the literature and consider it to be correct for the time being. (This is also one of the bases for some experts to determine this unknown virus as a novel coronavirus)
+
+![screenshot9](pics/littledog_9.jpg)  
+(Partial evolutionary tree screenshot)
+
+The front-end feedback that this patient is seriously ill and anxious for the test results, but such a major pathogen really cannot be reported easily, so I had an urgent meeting with several leaders at noon and decided to continue the in-depth analysis and delay the release of the report, while sharing the data to the Institute of Pathogenesis of the Chinese Academy of Medical Sciences for a piece of analysis.
+
+The later in-depth analysis was conducted from the gene level (orf1ab, S, N and other genes), and there were no more meaningful findings, mainly because the number of sequences detected was low, the coverage was too low, and all were incomplete genes to do anything.
+
+![screenshot10](pics/littledog_10_translated.png)
+
+*December 26, 2019 23:22 pm  
+Differences in gene expression levels  
+December 26, 2019 23:30 pm  
+I just found the strain with the highest alignment similarity. The position of the S region is 21483~25220. Our sequencing data still compares more than 30 lines, but they are all at the tail after 24000. area*
