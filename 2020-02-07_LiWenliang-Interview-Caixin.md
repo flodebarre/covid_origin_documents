@@ -8,7 +8,7 @@ February 07, 2020 02:26 Source: Caixin.com
 
 Wuhan doctor Li Wenliang was the first to disclose information about an unspecified pneumonia and was interviewed by his unit and admonished by the police; on Feb. 1, he was diagnosed with new pneumonia and became critically ill on Feb. 6, and his life is now hanging by a thread
 
-![picture LW](pics/caixin_LW_1.jpg)
+![picture LW](pics/caixin_LW_1.jpg)  
 *The 34-year-old Li Wenliang, an ophthalmologist at Wuhan Central Hospital, was the first to disclose the situation of unidentified pneumonia and was screenshotted and forwarded and then interviewed by the unit and admonished by the police. He himself was infected during the consultation process, and several colleagues and parents were also infected. Photo courtesy of the interviewee*
 
 [Caixin] (Reporter Qin Jianxing Gao Yu Bao Zhiming Ding Gang) 34-year-old doctor Li Wenliang is still being resuscitated at Wuhan Central Hospital, where he was treated with artificial lungs at around 21:00 on the night of February 6 ecmo. At around 22:00, news broke that he had died. 23:00, a Caixin reporter went to the door of the care unit of the Department of Respiratory and Critical Care Medicine at the Houhu Campus of Wuhan Central Hospital. At around 24:00, there are in and out of the traveling nurses said, not, but inside is still resuscitation. 7 2:00 am, there is a specialist went in for consultation, a colleague of Dr. Li who has been waiting outside the door also followed. Two minutes later, this colleague came out, Caixin reporter asked him how Dr. Li, he deeply bowed his head, did not say a word, silently left.
@@ -40,73 +40,73 @@ When the public traced the outbreak back to its source, they discovered that som
 
 **Caixin reporter:** How is your condition now?
 
-　　**Li Wenliang:** I'm in the respiratory and intensive care medicine unit to receive standardized treatment, is a four-room isolation ward, currently only two people live, can use cell phones to keep in touch with the outside world, usually by doctors and nurses to take care of me, every day the nurse will help wipe the face, wipe the body. I heard from the doctor today (30th) that my nucleic acid test results have turned negative, but this is the result of a throat swab, which I don't think represents the alveoli. It will take some time for my lungs to recover, I just still have some breathing difficulties, I need high flow oxygen all the time, and I can't eat too much yet.
+**Li Wenliang:** I'm in the respiratory and intensive care medicine unit to receive standardized treatment, is a four-room isolation ward, currently only two people live, can use cell phones to keep in touch with the outside world, usually by doctors and nurses to take care of me, every day the nurse will help wipe the face, wipe the body. I heard from the doctor today (30th) that my nucleic acid test results have turned negative, but this is the result of a throat swab, which I don't think represents the alveoli. It will take some time for my lungs to recover, I just still have some breathing difficulties, I need high flow oxygen all the time, and I can't eat too much yet.
 
-　　**Caixin reporter:** The public is very concerned about your posting "7 cases of SARS diagnosed" in the group chat, what was the situation at that time?
+**Caixin reporter:** The public is very concerned about your posting "7 cases of SARS diagnosed" in the group chat, what was the situation at that time?
 
-　　**Li Wenliang:** I sent it to a group of about 150 students and emphasized not to spread it at that time, mainly to remind the clinical students to pay attention to protection. Although there were not so many cases at that time, I was afraid that there would be an outbreak and the epidemic would spread because the virus was very similar to SARS.
+**Li Wenliang:** I sent it to a group of about 150 students and emphasized not to spread it at that time, mainly to remind the clinical students to pay attention to protection. Although there were not so many cases at that time, I was afraid that there would be an outbreak and the epidemic would spread because the virus was very similar to SARS.
 
-　　**Caixin reporter: you mean like SARS will be "human-to-human"?**
+**Caixin reporter: you mean like SARS will be "human-to-human"?**
 
-　　　**Li Wenliang:** There is obviously human-to-human transmission. Around January 8, I treated such patients myself. At that time, a patient in our ophthalmology department was admitted with acute angle-closure glaucoma. She had poor appetite that day, but her temperature was normal. At first, we didn't think about other places. Later, her glaucoma and intraocular pressure were normal. The next day, she still had poor appetite, and she had a fever at noon. The CT scan of the lungs showed that it was "viral pneumonia". All other indicators were consistent with Criteria for pneumonia of unknown etiology.
+**Li Wenliang:** There is obviously human-to-human transmission. Around January 8, I treated such patients myself. At that time, a patient in our ophthalmology department was admitted with acute angle-closure glaucoma. She had poor appetite that day, but her temperature was normal. At first, we didn't think about other places. Later, her glaucoma and intraocular pressure were normal. The next day, she still had poor appetite, and she had a fever at noon. The CT scan of the lungs showed that it was "viral pneumonia". All other indicators were consistent with Criteria for pneumonia of unknown etiology.
 
-　　The family member who took care of her that night also had fever, and her other daughter also had fever, which was obviously human-to-human transmission. We immediately reported the case to the medical office and the hospital's infection office, and requested a consultation with the hospital's expert team, after which the patient was recommended to be isolated in our department. Three days later, we did a review of her CT, and the results were still "viral pneumonia", and the scope of the disease had expanded and worsened, then the patient was transferred to the respiratory isolation ward, and I don't know what happened after that.
+The family member who took care of her that night also had fever, and her other daughter also had fever, which was obviously human-to-human transmission. We immediately reported the case to the medical office and the hospital's infection office, and requested a consultation with the hospital's expert team, after which the patient was recommended to be isolated in our department. Three days later, we did a review of her CT, and the results were still "viral pneumonia", and the scope of the disease had expanded and worsened, then the patient was transferred to the respiratory isolation ward, and I don't know what happened after that.
 
-　　　**Caixin reporter:** since there was already a "human-to-human" situation, why were there so few confirmed cases?
+**Caixin reporter:** since there was already a "human-to-human" situation, why were there so few confirmed cases?
 
-　　　**Li Wenliang:** At that time, it was difficult to confirm the diagnosis, the kit was not yet available. But there is no kit can be sent to do nucleic acid testing, but more trouble and time consuming, the specific process I do not know. At that time, our hospital's expert group consulted with the patient in front of us and said they could not decide whether to do the test or not. At that time, the clinical diagnosis was basically made by excluding other causes, such as the specific performance of CT, conventional treatment is ineffective, white blood cells are not high, lymphocytes decreased, these are all reference indicators.
+**Li Wenliang:** At that time, it was difficult to confirm the diagnosis, the kit was not yet available. But there is no kit can be sent to do nucleic acid testing, but more trouble and time consuming, the specific process I do not know. At that time, our hospital's expert group consulted with the patient in front of us and said they could not decide whether to do the test or not. At that time, the clinical diagnosis was basically made by excluding other causes, such as the specific performance of CT, conventional treatment is ineffective, white blood cells are not high, lymphocytes decreased, these are all reference indicators.
 
-　　**Caixin reporter:** your own infection is also related to this patient?
+**Caixin reporter:** your own infection is also related to this patient?
 
-　　**Li Wenliang:** At first the patient did not have fever, I was careless and did not do protection. On January 12, I was hospitalized after checking for respiratory viruses and having a CT scan, which was highly suspected of being New Coronavirus pneumonia. My colleagues in the same department also developed the infection a day or two after me, and my parents were hospitalized three or four days after me with symptoms one after another. Then I experienced a worsening of my condition, and now I have to take antibiotics and antiviral, globulin and oxygen every day.
+**Li Wenliang:** At first the patient did not have fever, I was careless and did not do protection. On January 12, I was hospitalized after checking for respiratory viruses and having a CT scan, which was highly suspected of being New Coronavirus pneumonia. My colleagues in the same department also developed the infection a day or two after me, and my parents were hospitalized three or four days after me with symptoms one after another. Then I experienced a worsening of my condition, and now I have to take antibiotics and antiviral, globulin and oxygen every day.
 
-　　**Caixin reporter:** Do you have to pay for all these treatment measures yourself?
+**Caixin reporter:** Do you have to pay for all these treatment measures yourself?
 
 **Li Wenliang:** Immunoglobulin is bought at his own expense, some are sent by pharmacies, some are bought with the help of classmates. The company has spent 50,000 to 60,000 yuan so far, and I don't know if it can be reimbursed.
 
-　　**Caixin reporter:** you just mentioned in the group had stressed not to screenshot passed out, but still spread out, what do you think?
+**Caixin reporter:** you just mentioned in the group had stressed not to screenshot passed out, but still spread out, what do you think?
 
-　　**Li Wenliang:** That night, many people on WeChat asked me with screenshots. And they screenshots are not complete, originally after the "confirmed 7 cases of SARS", I also stressed that this is a coronavirus, the specific is still typing, but these screenshots on the Internet did not. I feel unlucky to see these, and may be punished. Because this is sensitive information, and at a sensitive time when the "two meetings" are held. I was angry that the screenshots were not coded. Now I'm looking at it lighter, others may be in a hurry, in order to remind family and friends.
+**Li Wenliang:** That night, many people on WeChat asked me with screenshots. And they screenshots are not complete, originally after the "confirmed 7 cases of SARS", I also stressed that this is a coronavirus, the specific is still typing, but these screenshots on the Internet did not. I feel unlucky to see these, and may be punished. Because this is sensitive information, and at a sensitive time when the "two meetings" are held. I was angry that the screenshots were not coded. Now I'm looking at it lighter, others may be in a hurry, in order to remind family and friends.
 
-　　**Caixin reporter:** then after this you were punished?
+**Caixin reporter:** then after this you were punished?
 
-　　**Li Wenliang:** The screenshot was released at 1:30 a.m. that night (December 31), the Wuhan Health Care Commission met overnight, and I was mainly called over by our hospital leaders to ask about the situation. After dawn, I was interviewed by the hospital's supervision department, still asking me about the situation, asking the source of information, asking what happened and whether they recognized the mistake.
+**Li Wenliang:** The screenshot was released at 1:30 a.m. that night (December 31), the Wuhan Health Care Commission met overnight, and I was mainly called over by our hospital leaders to ask about the situation. After dawn, I was interviewed by the hospital's supervision department, still asking me about the situation, asking the source of information, asking what happened and whether they recognized the mistake.
 
-　　On January 3, they called me to go to the police station to sign a letter of reprimand, but I had never dealt with the police before, and I was very worried that I wouldn't be able to get out of it if I didn't sign it. I did not say anything to my family, I was under a lot of pressure and worried about the hospital punishment, which would affect my future job promotion and so on. Later, a classmate of mine knew, to help introduce the reporter, I directly with the reporter said these circumstances.
+On January 3, they called me to go to the police station to sign a letter of reprimand, but I had never dealt with the police before, and I was very worried that I wouldn't be able to get out of it if I didn't sign it. I did not say anything to my family, I was under a lot of pressure and worried about the hospital punishment, which would affect my future job promotion and so on. Later, a classmate of mine knew, to help introduce the reporter, I directly with the reporter said these circumstances.
 
-　　　**Caixin reporter:** The first police notification was on January 1, saying that eight rumor-mongers had been summoned at that time, and you were called to the police station on January 3? Does this mean that you were the one who was dealt with in addition to these eight people?
+**Caixin reporter:** The first police notification was on January 1, saying that eight rumor-mongers had been summoned at that time, and you were called to the police station on January 3? Does this mean that you were the one who was dealt with in addition to these eight people?
 
-　　　**Li Wenliang:** This is not clear, I can not be sure, what you say is also possible, I now just want to get well soon.
+**Li Wenliang:** This is not clear, I can not be sure, what you say is also possible, I now just want to get well soon.
 
 **"A healthy society should not have only one voice."**
 
 **Caixin reporter:** The police gave you a letter of reprimand for making false statements on the Internet, and at that time there were people who thought you had created rumors.
 
-　　**Li Wenliang:** I don't think it's a rumor, because the report clearly states that it's SARS, and I just want to alert my classmates, and I don't want to cause panic (Li Wenliang also uploaded a test report sheet during the group chat, and the clinical pathogen screening results detected "high confidence" positive indicators of SARS coronavirus, Pseudomonas aeruginosa (Monocytes, 46 oral/respiratory colonizing bacteria - editor's note).
+**Li Wenliang:** I don't think it's a rumor, because the report clearly states that it's SARS, and I just want to alert my classmates, and I don't want to cause panic (Li Wenliang also uploaded a test report sheet during the group chat, and the clinical pathogen screening results detected "high confidence" positive indicators of SARS coronavirus, Pseudomonas aeruginosa (Monocytes, 46 oral/respiratory colonizing bacteria - editor's note).
 
-　　　**Caixin reporter:** Since you don't think it's a rumor, have you ever thought about going through the judicial route to get an explanation?
+**Caixin reporter:** Since you don't think it's a rumor, have you ever thought about going through the judicial route to get an explanation?
 
-　　　**Li Wenliang:** No, I'm afraid the judicial route is very troublesome, I do not want to find trouble with the Public Security Bureau, I'm afraid of trouble. People know the truth is more important, and the truth is not so important to me, justice is in the heart. Another thing is that some people say I was suspended license is not true, to clarify!
+**Li Wenliang:** No, I'm afraid the judicial route is very troublesome, I do not want to find trouble with the Public Security Bureau, I'm afraid of trouble. People know the truth is more important, and the truth is not so important to me, justice is in the heart. Another thing is that some people say I was suspended license is not true, to clarify!
 
-　　　　**Caixin reporter:** On January 28, the Supreme Court issued a commentary on the appropriateness of the punishment of the eight "rumor mongers" in Wuhan. You may be one of these eight people, what did you think when you saw it?
+**Caixin reporter:** On January 28, the Supreme Court issued a commentary on the appropriateness of the punishment of the eight "rumor mongers" in Wuhan. You may be one of these eight people, what did you think when you saw it?
 
-　　　**Li Wenliang:** After seeing the Supreme Court article, I was much more relaxed and less worried about the hospital's handling. I think a healthy society shouldn't have only one voice and disagree with using public power to interfere excessively. I still agree with the Supreme Court's article that there should be specific screening. (Is that one of the eight) will not be too concerned, because the most widely spread on the Internet, the Supreme Court article quoted in that article is the one I sent to be screenshot.
+**Li Wenliang:** After seeing the Supreme Court article, I was much more relaxed and less worried about the hospital's handling. I think a healthy society shouldn't have only one voice and disagree with using public power to interfere excessively. I still agree with the Supreme Court's article that there should be specific screening. (Is that one of the eight) will not be too concerned, because the most widely spread on the Internet, the Supreme Court article quoted in that article is the one I sent to be screenshot.
 
-　　**Caixin reporter:** January 29, Wuhan police responded to the eight "rumor mongers", which did not mention the admonition you received, what do you think?
+**Caixin reporter:** January 29, Wuhan police responded to the eight "rumor mongers", which did not mention the admonition you received, what do you think?
 
-　　**Li Wenliang:** I can only read the police response, I can not express an opinion, there is no meaning. I'm not sure if I'm one of the eight.
+**Li Wenliang:** I can only read the police response, I can not express an opinion, there is no meaning. I'm not sure if I'm one of the eight.
 
-　　　　**Caixin reporter:** Some people call you the "early-warning" and "whistle-blower" before the large-scale outbreak of the epidemic.
+**Caixin reporter:** Some people call you the "early-warning" and "whistle-blower" before the large-scale outbreak of the epidemic.
 
-　　**Li Wenliang:** I didn't think much about it, but I was just alerted to the news.
+**Li Wenliang:** I didn't think much about it, but I was just alerted to the news.
 
-　　　**Caixin reporter:** what are your plans afterwards?
+**Caixin reporter:** what are your plans afterwards?
 
-　　**Li Wenliang:** After recovery I still want to go to the front line, now the epidemic is still spreading, I do not want to be a deserter.
+**Li Wenliang:** After recovery I still want to go to the front line, now the epidemic is still spreading, I do not want to be a deserter.
 
-　　　　**Caixin reporter:** how is the situation of the family now?
+**Caixin reporter:** how is the situation of the family now?
 
-　　**Li Wenliang:** My wife is abroad in her mother's house, Wuhan closed city can not return. Parents should be discharged from the hospital in the near future, temporarily can not find anyone to help, they usually have good health, should be able to take care of themselves after discharge. I talked to them sounded like they were in good shape and could move around on their own.
+**Li Wenliang:** My wife is abroad in her mother's house, Wuhan closed city can not return. Parents should be discharged from the hospital in the near future, temporarily can not find anyone to help, they usually have good health, should be able to take care of themselves after discharge. I talked to them sounded like they were in good shape and could move around on their own.
 
 
 *Caixin intern reporter Wang Yanyu also contributed to this article*
@@ -134,5 +134,5 @@ Year 2009*
 
 Li Wenliang's admonition book. The second drop time 2019 should be 2020, Li Wenliang said this is a clerical error.   Courtesy of the interviewee
 
-For more coverage, please see: [Feature] Newcastle Pneumonia Epidemic Record (updated in real time)
+For more coverage, please see: [Feature] Newcastle Pneumonia Epidemic Record (updated in real time)   
 **Editor: Wang Yiyin | Page Editor: Zhang Xiangyu (ZN036)**
